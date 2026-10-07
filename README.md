@@ -117,4 +117,4 @@ jupyter notebook notebooks/rag_document_search_faiss_langchain_pipeline.ipynb
 - **Portfolio Website**: [https://github.com/ArjunaFransesco/arjuna-portfolio](https://github.com/ArjunaFransesco/arjuna-portfolio)
 
 
-<!-- Last Maintenance Audit: 2026-10-03 -->
+<!-- Last Maintenance Audit: 2026-10-07 -->
